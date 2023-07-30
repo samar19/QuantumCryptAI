@@ -1,6 +1,8 @@
 # QuantumCryptAI
 
 QuantumCryptAI This name incorporates the core elements of the project: "Quantum" represents the utilization of quantum computing and mechanics, "Crypt" refers to cryptography and security, and "AI" stands for artificial intelligence, highlighting the presence of an AI computing system. It effectively conveys the essence of the project, combining quantum computing, cryptography, and artificial intelligence to create a secure and advanced computing protocol.
+
+
 ![QuantumCryptAI](https://github.com/samar19/pic-/blob/master/Abstract%20Artificial%20Intelligence%20Technology%20Free%20Logo.png)
 
  # Tagline 
@@ -266,10 +268,10 @@ Overcoming these challenges and successfully implementing QuantumCryptAI will un
 # screencast link 
 # youtube 
 persentation link : 
-demo on remix : 
+demo: 
 
 # github 
-
+https://github.com/samar19/QuantumCryptAI
 
 # Technologies Used
 # smart contract 
